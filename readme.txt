@@ -6,3 +6,4 @@ i want to slep
 
 creating a new branch is quick and simple.
 I strong
+add merge
