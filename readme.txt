@@ -3,4 +3,4 @@ Git is free software.
 Git is good!
 I love Git!!!
 i want to slep
-creating a new branch is quick
+creating a new branch is quick & simple
